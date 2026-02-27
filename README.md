@@ -41,11 +41,9 @@ When stuck or not sure, ask an LLM:
 
 > Why is this task important? What exactly do I need to do?
 
-Provide enough context by giving it the whole file, not one or two lines.
+Provide enough context by giving it the whole file, not one or two lines. Ideally pass the setup file too.
 
 Remember: Use the LLM to enhance your understanding, not replace it.
-
-Evaluate LLM answers critically, and verify them against credible sources such as official documentation, course materials, and what you observe in reality.
 
 ## Learning outcomes
 
