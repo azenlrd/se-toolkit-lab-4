@@ -114,6 +114,7 @@ If you installed `Docker Desktop`:
    docker volume prune -f
    ```
 
+## Common `Docker` commands
 
 ### `docker run`
 
