@@ -10,6 +10,7 @@
 - [Repository](#repository)
   - [`<repo-name>`](#repo-name)
   - [`<repo-url>`](#repo-url)
+  - [Browse a repository revision](#browse-a-repository-revision)
   - [Make your repository public](#make-your-repository-public)
 - [Repository owner](#repository-owner)
   - [`<repo-owner-github-username>`](#repo-owner-github-username)
