@@ -7,7 +7,6 @@ interface Item {
   id: number
   type: string
   title: string
-  description: string // ДОБАВЛЕНО: добавили поле в интерфейс
   created_at: string
 }
 
@@ -94,7 +93,6 @@ function App() {
               <th>ID</th>
               <th>Type</th>
               <th>Title</th>
-              <th>Description</th> {/* ДОБАВЛЕНО: Заголовок колонки */}
               <th>Created at</th>
             </tr>
           </thead>
@@ -104,7 +102,6 @@ function App() {
                 <td>{item.id}</td>
                 <td>{item.type}</td>
                 <td>{item.title}</td>
-                <td>{item.description}</td> {/* ДОБАВЛЕНО: Ячейка с данными */}
                 <td>{item.created_at}</td>
               </tr>
             ))}
